@@ -6,5 +6,5 @@
 Para rodar esse projeto, porfavor baixe
 
 ```
-npm react install
+node app.js
 ```
